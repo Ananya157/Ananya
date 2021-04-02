@@ -1,0 +1,5 @@
+com.example.controller.$NoCostTicket$InterceptedDefinitionClass
+com.example.controller.$$NoCostTicketDefinition$InterceptedDefinitionClass
+com.example.controller.$BillingControllerDefinitionClass
+com.example.$ServiceToClient$InterceptedDefinitionClass
+com.example.$Service2Client$InterceptedDefinitionClass
